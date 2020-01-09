@@ -8,13 +8,6 @@
       "comments": ""
     },
     {
-      "name": "",
-      "status": "watched",
-      "genre": "",
-      "comments": "",
-      "id": 6
-    },
-    {
       "name": "Atypical",
       "status": "watched",
       "genre": "Drama",
@@ -72,15 +65,15 @@
     },
     {
       "id": 17,
-      "name": "Channel Zero",
+      "name": "The Good Place",
       "status": "toWatch",
-      "genre": "Terror",
+      "genre": "Comédia",
       "comments": ""
     },
     {
-      "name": "The Purge",
+      "name": "Rick and Morty",
       "status": "watching",
-      "genre": "Terror",
+      "genre": "Comédia",
       "comments": "",
       "id": 18
     },
